@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="android_party">Android Party</string>
+    <string name="jetpack_compose">Jetpack Compose</string>
+    <string name="android">Android</string>
+    <string name="from">from %1$s</string>
+</resources>
